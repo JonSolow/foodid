@@ -27,7 +27,7 @@ drive.mount('/content/drive')
 
 # Download Data
 
-Data is download from the source provided at:
+Data is downloaded from the source provided at:
 
 Food-101 – Mining Discriminative Components with Random Forests
 
